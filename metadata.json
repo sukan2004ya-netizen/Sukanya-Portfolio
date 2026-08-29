@@ -1,0 +1,6 @@
+{
+  "name": "Sukanya Shetty - Portfolio",
+  "description": "Innovative portfolio for Sukanya P (Sukanya Shetty) - Software Developer specializing in Java, Python, Web Technologies, Computer Vision & AI-assisted workflows.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
